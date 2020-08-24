@@ -5,6 +5,8 @@ Hi there 👋 I'm Katherine
 
 ![Bonfire](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif width="100")
 
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" />
+
 <!--
 **Kat2bk/Kat2bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
