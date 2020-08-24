@@ -1,7 +1,9 @@
 <h1 align="center">
-### Hi there 👋 I'm Katherine
+Hi there 👋 I'm Katherine
   </h1>
 --------
+
+![Bonfire](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif)
 
 <!--
 **Kat2bk/Kat2bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +23,8 @@ Here are some ideas to get you started:
 <p align="center">
   Writer :computer: Coder
   </p>
+  
+  ###Technologies I love
+  * 
 
 
