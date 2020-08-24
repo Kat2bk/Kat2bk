@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-:computer:
   
-* Currently Working: *Budget App*
+:computer: Currently Working: *Budget App*
 * Curently Learning: *React/Redux*
 * Things I'd like to learn: DevOps/C++/Machine Learning/Unity
 
