@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Katherine
-<br />
+### Hi there 👋 I'm Katherine <br />
 
 <!--
 **Kat2bk/Kat2bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
