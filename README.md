@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
   Writer :computer: Coder
   
-###Currently Working: *Budget App*
-###Curently Learning: *React/Redux*
-###Things I'd like to learn: DevOps/C++/Machine Learning/Unity
+* ###Currently Working: *Budget App*
+* ###Curently Learning: *React/Redux*
+* ###Things I'd like to learn: DevOps/C++/Machine Learning/Unity
 
 ###About
 
