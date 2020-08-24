@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  Writer :computer: Coder
+:computer:
   
 * Currently Working: *Budget App*
 * Curently Learning: *React/Redux*
