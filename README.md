@@ -3,7 +3,7 @@ Hi there 👋 I'm Katherine
   </h1>
 --------
 
-![Bonfire](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif | width=100)
+![Bonfire](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif width="100")
 
 <!--
 **Kat2bk/Kat2bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
