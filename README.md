@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" />
 
-###Tech-Stack
+<h1>Tech-Stack</h1>
 
 * ⚡ HTML/CSS | JavaScript | BootStrap | ReactJS | Redux | Node.JS | Firebase
 
