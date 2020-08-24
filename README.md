@@ -1,11 +1,6 @@
-<h1 align="center">
+
 Hi there 👋 I'm Katherine
-  </h1>
 --------
-
-![Bonfire](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif width="100")
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" />
 
 <!--
 **Kat2bk/Kat2bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,11 +17,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
   Writer :computer: Coder
-  </p>
   
-  ###Technologies I love
-  * 
+###Currently Working: *Budget App*
+###Curently Learning: *React/Redux*
+###Things I'd like to learn: DevOps/C++/Machine Learning/Unity
+
+###About
+
+* I am a full-stack web developer who is passionate about all things coding. I am always working on personal projects.
+
+###Hobbies
+* I am an avid consumer of literature/history - favorite genre is horror/fantasy/sci-fi.
+* I enjoy games - especially platformers. Hit me up for some <a href="https://skribbl.io/">Scribbl</a>.
+* When I'm not busy, I am writing a book based on Greek Mythology.
+
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" />
+
+###Tech-Stack
+* ⚡ HTML/CSS | JavaScript | BootStrap | ReactJS | Redux | Node.JS | Firebase
+
 
 
