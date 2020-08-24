@@ -1,4 +1,4 @@
-<center>### Hi there 👋 I'm Katherine</center>
+### Hi there 👋 I'm Katherine
 --------
 
 <!--
