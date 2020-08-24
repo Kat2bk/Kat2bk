@@ -1,5 +1,5 @@
 
-Hi there 👋 I'm Katherine
+<h1>Hi there 👋 I'm Katherine</h1>
 --------
 
 <!--
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 * Curently Learning: *React/Redux*
 * Things I'd like to learn: DevOps/C++/Machine Learning/Unity
 
-<h1>About</h1>
+<h2>About</h2>
 
 * I am a full-stack web developer who is passionate about all things coding. I am always working on personal projects.
 
-<h1>Hobbies</h1>
+<h2>Hobbies</h2>
   
 * I am an avid consumer of literature/history - favorite genre is horror/fantasy/sci-fi.
 * I enjoy games - especially platformers. Hit me up for some <a href="https://skribbl.io/">Scribbl</a>.
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" />
 
-<h1>Tech-Stack</h1>
+<h2>Tech-Stack</h2>
 
 * ⚡ HTML/CSS | JavaScript | BootStrap | ReactJS | Redux | Node.JS | Firebase
 
