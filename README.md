@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h2>Tech-Stack</h2>
 
-* ⚡ HTML/CSS | JavaScript | BootStrap | ReactJS | Redux | Node.JS | Firebase
+* ⚡ HTML/CSS | JavaScript | ReactJS | Redux | Firebase
 
 
 
