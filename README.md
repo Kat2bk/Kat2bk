@@ -30,7 +30,7 @@ I would really like to build something in the future that would benefit teachers
 <h2>Hobbies</h2>
   
 * I am an avid consumer of literature/history - favorite genre is horror/fantasy/sci-fi. Favorite book series: The Lost Years of Merlin
-* I enjoy games - especially platformers. Hit me up for some <a href="https://skribbl.io/">Scribbl</a>.
+* I enjoy a variety of games - especially platformers, but I really love the Dark Souls series and Skyrim.
 * When I'm not busy, I am writing a book based on Greek Mythology.
 
 <h2>Tech-Stack</h2>
