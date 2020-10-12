@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="100" />
   
 :computer: Currently Working: *Budget App*
 * Curently Learning: *React/Redux/Express*
@@ -29,15 +27,12 @@ I would really like to build something in the future that would benefit teachers
 
 <h2>Hobbies</h2>
   
-* I am an avid consumer of literature/history - favorite genre is horror/fantasy/sci-fi. Favorite book series: The Lost Years of Merlin
-* I enjoy a variety of games - especially platformers, but I really love the Dark Souls series and Skyrim.
+* I am an avid consumer of literature/history. Favorite book series: The Lost Years of Merlin
 * When I'm not busy, I am writing a book based on Greek Mythology.
 
 <h2>Tech-Stack</h2>
 
 * ⚡ HTML/CSS | JavaScript | ReactJS | Redux | Firebase
-
-<i class="fab fa-free-code-camp"></i>
 
 
 
