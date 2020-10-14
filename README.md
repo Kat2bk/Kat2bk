@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
   
 :computer: Currently Working: *Budget App*
-* Curently Learning: *React/Redux/Express*
-* Things I'd like to learn: C++/Java/Unity
+* Curently Learning: *React/Redux/Express/SQL*
+* Things I'd like to learn: C++/Java/Unity/TypeScript/
 
 <h2>About</h2>
 
