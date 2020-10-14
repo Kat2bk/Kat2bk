@@ -27,8 +27,7 @@ I would really like to build something in the future that would benefit teachers
 
 <h2>Hobbies</h2>
   
-* I am an avid consumer of literature/history. Favorite book series: The Lost Years of Merlin
-* When I'm not busy, I am writing a book based on Greek Mythology.
+* I am an avid consumer of literature/history. Favorite book series: The Lost Years of Merlin. When I'm not busy, I am writing something based on Greek Mythology.
 
 <h2>Tech-Stack</h2>
 
