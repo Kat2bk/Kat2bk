@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-:computer: Currently Working: *Budget App*
+:computer: Currently Working: *Budget App*, JS Projects
 * Curently Learning: *React/Redux/Express/SQL*
 * Things I'd like to learn: C++/Java/Unity/TypeScript/
 
