@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 :computer: Currently Working: *Budget App*, JS Projects, Node/Express
 * Curently Learning: *React/Redux/Express/SQL*
-* Things I'd like to learn: C++/Java/Unity/TypeScript/
+* Things I'd like to learn: C++/TypeScript/
 
 <h2>About</h2>
 
