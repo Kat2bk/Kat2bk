@@ -1,37 +1,23 @@
 
-<h2>Hi there 👋</h2>
+<h1 align="center">Hi 👋, I'm Katherine</h1>
+<h3 align="center">I'm an up and coming developer who seeks to use her knowledge for community/local projects</h3>
 
-<!--
-**Kat2bk/Kat2bk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [100Devs](https://labrocadabro.github.io/100devs-hw-tracker/)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning/reviewing **HTML/CSS/JavaScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
-:computer: Currently Working: *Budget App*, JS Projects, Node/Express
-* Curently Learning: *React/Redux/Express/SQL*
-* Things I'd like to learn: C++/TypeScript/
+- 📝 I write articles on [https://entry-logs.blogspot.com/](https://entry-logs.blogspot.com/)
 
-<h2>About</h2>
+- 📫 How to reach me **Katherine2bk@gmail.com**
 
-* I am a full-stack web developer who is passionate about all things coding. I am always working on personal projects.
-I would really like to build something in the future that would benefit teachers/students/farmers and small communities.
+- ⚡ Fun fact **I enjoy archery**
 
-<h2>Hobbies</h2>
-  
-* I am an avid consumer of literature/history. Favorite book series: The Lost Years of Merlin.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/katherine_anne7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katherine_anne7" height="30" width="40" /></a>
+</p>
 
-<h2>Tech-Stack</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-* ⚡ HTML/CSS | JavaScript | ReactJS | Redux | Firebase
-
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kat2bk&show_icons=true&theme=dark&locale=en" alt="kat2bk" /></p>
