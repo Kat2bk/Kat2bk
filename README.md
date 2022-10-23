@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Katherine2bk@gmail.com**
 
-- ⚡ Fun fact **I enjoy archery, farming, and history. 🏳️‍🌈**
+- ⚡ Fun fact **I enjoy archery, farming, and history.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
